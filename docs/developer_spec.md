@@ -581,7 +581,7 @@ Summary of comp flags since mbf in pr+ and changes:
 - The comp list size is variable - take care when reading demos.
   - If the comp list size is <24, then comp_voodooscroller equals 1.
   - If the comp list size is <25, then comp_reservedlineflag equals 0.
-  - If the comp list size is <26, then comp_reservedlineflag equals 0.
+  - If the comp list size is <26, then comp_thingsectorlight equals 0.
 
 #### Fixes / adjustments since mbf
 - Fix 3 key door bug
