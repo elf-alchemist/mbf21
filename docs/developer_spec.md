@@ -489,7 +489,7 @@ MBF21 defaults:
   - When off: the line flag 0x0800 means nothing.
 - comp_thingsectorlight: [PR](https://github.com/kraflab/dsda-doom/pull/820)
   - When on: sprites that are on sectors using Boom's floor/ceiling transfered light levels will use the average of those two values.
-  - When on: sprties will always be drawn with the Mobj's sector's light level.
+  - When off: sprites will always be drawn with the Mobj's sector's light level.
 
 Summary of comp flags since mbf in pr+ and changes:
 

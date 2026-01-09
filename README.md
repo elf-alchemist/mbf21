@@ -19,7 +19,7 @@ The specification is available in different formats to suit different audiences:
 
 ### Version History
 - v1.5
-  - Added comp_thingsectorlight option (Boom-transferred sector light level behaves more preditably)
+  - Added comp_thingsectorlight option (Boom-transferred sector light level behaves more predictably)
 - v1.4
   - Added comp_reservedlineflag option (ignore extended flags when set).
 - v1.3
