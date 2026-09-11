@@ -2,6 +2,8 @@
 
 The OPTIONS lump (originally from mbf) allows wad authors to set a series of variables that affect engine behaviour. This file contains descriptions of the options as well as examples you can use to approximate old environments.
 
+See the templates [here](./templates/). For [Ultimate Doom](./templates/OPTIONS.doomu.txt), [Doom II](./templates/OPTIONS.doomu.txt), [Boom](./templates/OPTIONS.doomu.txt), [MBF](./templates/OPTIONS.doomu.txt) and [MBF21](./templates/OPTIONS.doomu.txt)
+
 | Key                   | Description                                                    | Ultimate Doom | Doom 2 | Boom | MBF | MBF21 |
 |-----------------------|----------------------------------------------------------------|---------------|--------|------|-----|-------|
 | weapon_recoil         | Firing a weapon pushes the player back                         |             0 |      0 |    0 |   0 |     0 |
